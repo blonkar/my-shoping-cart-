@@ -10,4 +10,7 @@ class PageController < ApplicationController
 
   def contact
   end
+  def get_started
+  end
+
 end
